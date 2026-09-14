@@ -1,1 +1,5 @@
+SELECT COUNT(*) FROM products;
+SELECT COUNT(*) FROM customers;
+SELECT COUNT(*) FROM orders;
+SELECT COUNT(*) FROM category_targets;
 
